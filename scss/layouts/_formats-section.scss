@@ -1,0 +1,15 @@
+.formats-section {
+    &__slider {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    }
+
+    &__container{
+      overflow: hidden;
+    }
+
+    &__list{
+      margin-bottom: 32px;
+    }
+}
